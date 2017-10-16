@@ -1,4 +1,4 @@
-baseURL = "http://bruceeckel.github.io/"
+baseURL = "http://ComputingThoughts.github.io/"
 languageCode = "en-us"
 title = "Computing Thoughts"
 theme = "hugo-nuo"
