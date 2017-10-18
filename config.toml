@@ -38,6 +38,7 @@ PygmentsCodeFences = true
 
 # Add your own params here
 [params]
+  seotitle = "Bruce Eckel's Personal Blog"
   author = "Bruce Eckel"
   avatar = "/img/BruceEckelPicture.png"
   seotitle = "Hugo Blog (SEO Version)"
