@@ -38,10 +38,9 @@ PygmentsCodeFences = true
 
 # Add your own params here
 [params]
-  seotitle = "Bruce Eckel's Personal Blog"
+  seotitle = "Bruce Eckel's Programming Blog"
   author = "Bruce Eckel"
   avatar = "/img/BruceEckelPicture.png"
-  seotitle = "Hugo Blog (SEO Version)"
   subtitle = "Bruce Eckel's Programming Blog"
   description = "A blog about all the things related to programming by Bruce Eckel, author of Thinking in Java, Thinking in C++, Atomic Scala and very soon Atomic Kotlin."
   paginate = 10
